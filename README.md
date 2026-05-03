@@ -1,13 +1,23 @@
 # Claude Code 源码还原
 
+> [!CAUTION]
+> ## ⚠️ 非官方还原 · 仅供研究学习 · 严禁商用
+>
+> 本仓库为**非官方**项目，基于公开发布的 `@anthropic-ai/claude-code` npm 包的 source map 还原，**所有源码版权归 [Anthropic, PBC.](https://www.anthropic.com) 所有**。
+>
+> - ✅ 允许：**个人学习、技术研究、教育参考**
+> - ❌ 禁止：**任何形式的商业使用、再分发、作为竞品发布**
+> - 📩 **DMCA / 下架请求**：如您是 Anthropic 的授权代表希望本仓库下架，请提 issue 或联系维护者，**第一时间下架**。
+>
+> 详见 [LICENSE.md](LICENSE.md)。继续浏览即视为您已阅读并同意上述条款。
+
+---
+
 > 从 `@anthropic-ai/claude-code` npm 包的 source map 中还原的完整 TypeScript 源码，**可本地运行**
 
 <p align="center">
   <img src="preview.png?raw=true" alt="Claude Code CLI" width="700">
 </p>
-
-> [!WARNING]
-> 本仓库为**非官方**版本，基于公开 npm 发布包 source map 还原，**仅供研究学习**。源码版权归 [Anthropic](https://www.anthropic.com) 所有。
 
 ---
 
@@ -301,6 +311,8 @@ vendor/                 # 原生绑定源码
 
 ## 声明
 
-- 源码版权归 [Anthropic](https://www.anthropic.com) 所有
-- 仅用于技术研究与学习，请勿用于商业用途
-- 如有侵权，请联系删除
+完整许可与免责条款见 **[LICENSE.md](LICENSE.md)**。
+
+- 源码版权归 [Anthropic, PBC.](https://www.anthropic.com) 所有
+- 仅用于技术研究与学习，**禁止任何形式的商业用途**
+- DMCA / 下架请求：请提 issue 或联系维护者，第一时间下架
